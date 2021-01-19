@@ -60,7 +60,7 @@ social:
 # and uncomment the lines below.
  - icon: resume
    icon_pack: ai
-   link: media/cv.pdf
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
