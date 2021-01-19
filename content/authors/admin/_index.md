@@ -41,12 +41,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dmockus2@illinois.edu
+  link: 'mailto:dmockus2@illinois.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DomininkasM
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=tv6nhpkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
