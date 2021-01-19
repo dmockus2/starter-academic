@@ -18,7 +18,7 @@ bio: I am interested in the economics of aging, in particular the market for hom
 
 # Interests to show in About widget
 interests:
-- Helth Economics
+- Health Economics
 - Labor Economics
 
 # Education to show in About widget
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dmockus2@illinois.edu'
+  link: mailto:dmockus2@illinois.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DomininkasM
